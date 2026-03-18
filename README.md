@@ -9,8 +9,7 @@ Bike For Ever is a modern e-commerce website for selling bikes, featuring a clea
 - Responsive design
 
 ## Tech Stack
-- React (Vite)
-- JavaScript
+- React + TypeScript (Vite)
 - CSS / Bootstrap
 
 ## Installation
