@@ -1,0 +1,5 @@
+{
+  "name": "Bike For Ever",
+  "description": "A premium, high-converting e-commerce platform for high-performance bikes.",
+  "requestFramePermissions": ["geolocation"]
+}
